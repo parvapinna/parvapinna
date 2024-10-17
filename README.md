@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @parvapinna
 - 👾 I’m interested in game development.
-- 🎓 I’m currently learning CS in uni (class of 2022!)
+- 🎓 I’m currently learning CS in uni (class of 2024!)
 - 📫 How to reach me:
-- @lissajousting on Twitter
+- @philinidae on Twitter
 - @parvapinna on Instagram
 
 <!---
